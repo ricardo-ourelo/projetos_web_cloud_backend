@@ -1,0 +1,6494 @@
+[
+  {
+    "id": 1,
+    "name": "Vestido Floral Folhos",
+    "description": "Design longo. Design reto. Estampa floral. Decote redondo escotado. Laço decorativo atrás. Pormenor de folhos nos ombros. Sem mangas. Alças largas. Fecho de correr lateral. Forro interior.",
+    "price": 49.99,
+    "oldPrice": 69.99,
+    "category": "vestidos",
+    "subcategory": "Edição Exclusiva",
+    "rating": 4.8,
+    "popularity": 95,
+    "stock": 12,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-1.jpg",
+      "/assets/images/products/vestido-1-2.jpg",
+      "/assets/images/products/vestido-1-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Purple",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Purple",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Purple",
+        "size": "L",
+        "stock": 3
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "Casaco de Algodão com Botões de Jóia",
+    "description": "Tecido com mistura de algodão e lã. Tecido tweed. Design reto. Tamanho médio. Gola redonda. Manga comprida. Punhos com botões. Dois bolsos de aplicação à frente. Fecho de botões na frente. Extremidades desfiadas.",
+    "price": 59.99,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 4.4,
+    "popularity": 85,
+    "stock": 15,
+    "gender": "mulher",
+    "image": "/assets/images/products/casaco-1.jpg",
+    "images": [
+      "/assets/images/products/casaco-1.jpg",
+      "/assets/images/products/casaco-1-2.jpg",
+      "/assets/images/products/casaco-1-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 7
+      },
+      {
+        "color": "White",
+        "size": "XXL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Camisa 100% linho Branco",
+    "description": "Camisa relax fit confecionada em tecido de linho. Gola bowling e manga curta. Bolsos de chapa no peito. Bainha com aberturas laterais. Fecho frontal de botões.",
+    "price": 12.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.9,
+    "popularity": 70,
+    "stock": 28,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH1 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH1 - 1.jpg",
+      "/assets/images/products/CamisaH1 - 2.jpg",
+      "/assets/images/products/CamisaH1 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 7
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Camisa 100% linho verde",
+    "description": "Camisa relax fit confecionada em tecido de linho. Gola bowling e manga curta. Bolsos de chapa no peito. Bainha com aberturas laterais. Fecho frontal de botões.",
+    "price": 12.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.5,
+    "popularity": 70,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH2 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH2 - 1.jpg",
+      "/assets/images/products/CamisaH2 - 2.jpg",
+      "/assets/images/products/CamisaH2 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Green",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Green",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Green",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Green",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Camisa 100% linho bege",
+    "description": "Camisa relax fit confecionada em tecido de linho. Gola bowling e manga curta. Bolsos de chapa no peito. Bainha com aberturas laterais. Fecho frontal de botões.",
+    "price": 12.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.7,
+    "popularity": 70,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH3 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH3 - 1.jpg",
+      "/assets/images/products/CamisaH3 - 2.jpg",
+      "/assets/images/products/CamisaH3 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Bege",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Bege",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Bege",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Bege",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Camisa Com Estrutura Às Riscas",
+    "description": "Camisa relaxed fit. Gola bowling e manga curta. Parte inferior com aberturas laterais. Fecho frontal com botões.",
+    "price": 14.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.0,
+    "popularity": 70,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH4 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH4 - 1.jpg",
+      "/assets/images/products/CamisaH4 - 2.jpg",
+      "/assets/images/products/CamisaH4 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White/Grey",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "White/Grey",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "White/Grey",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "White/Grey",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Camisa Com Estampado Abstrato",
+    "description": "Camisa relaxed fit confecionada em tecido fluído. Gola de lapela e manga curta. Fecho frontal com botões.",
+    "price": 14.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.3,
+    "popularity": 80,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH5 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH5 - 1.jpg",
+      "/assets/images/products/CamisaH5 - 2.jpg",
+      "/assets/images/products/CamisaH5 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White/Grey",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White/Grey",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "White/Grey",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "White/Grey",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Camisa Com Estrutura Às Riscas",
+    "description": "Camisa relaxed fit. Gola bowling e manga curta. Parte inferior com aberturas laterais. Fecho frontal com botões.",
+    "price": 14.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.5,
+    "popularity": 95,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH6 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH6 - 1.jpg",
+      "/assets/images/products/CamisaH6 - 2.jpg",
+      "/assets/images/products/CamisaH6 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White/Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White/Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "White/Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "White/Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Camisa 100% Linho Castanho",
+    "description": "Camisa relax fit confecionada em tecido de linho. Gola bowling e manga curta. Bainha com aberturas laterais. Fecho frontal de botões.",
+    "price": 12.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.1,
+    "popularity": 70,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH7 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH7 - 1.jpg",
+      "/assets/images/products/CamisaH7 - 2.jpg",
+      "/assets/images/products/CamisaH7 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White/Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White/Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "White/Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "White/Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Camisa 100% Linho Preto",
+    "description": "Camisa relax fit confecionada em tecido de linho. Gola bowling e manga curta. Bainha com aberturas laterais. Fecho frontal de botões.",
+    "price": 12.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 5,
+    "popularity": 70,
+    "stock": 32,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH8 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH8 - 1.jpg",
+      "/assets/images/products/CamisaH8 - 2.jpg",
+      "/assets/images/products/CamisaH8 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 8
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 8
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Camisa De Jacquard Geométrico",
+    "description": "Camisa relaxed fit confecionada em tecido com mistura de viscose e linho. Gola bowling e manga curta. Bainha com aberturas laterais. Fecho com botões à frente.",
+    "price": 15.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.1,
+    "popularity": 80,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH9 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH9 - 1.jpg",
+      "/assets/images/products/CamisaH9- 2.jpg",
+      "/assets/images/products/CamisaH9 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 8
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 8
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Camisa Lyocell - Algodão",
+    "description": "Camisa relaxed fit confecionada em tecido com mistura de liocel e algodão. Colarinho de pontas e manga curta. Bolso de chapa no peito. Fecho com botões à frente.",
+    "price": 15.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.2,
+    "popularity": 80,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH10 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH10 - 1.jpg",
+      "/assets/images/products/CamisaH10 - 2.jpg",
+      "/assets/images/products/CamisaH10 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 8
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 8
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Camisa Relaxed Fit Aos Quadrados",
+    "description": "Camisa relaxed fit confecionada em tecido com mistura de liocel e algodão. Colarinho de pontas e manga curta. Bolso de chapa no peito. Fecho com botões à frente.",
+    "price": 16.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.1,
+    "popularity": 80,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH11 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH11 - 1.jpg",
+      "/assets/images/products/CamisaH11 - 2.jpg",
+      "/assets/images/products/CamisaH11 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Green",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Green",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Green",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Green",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Camisa Com Bordados a Contrastar",
+    "description": "Camisa relaxed fit. Gola bowling e manga curta. Parte inferior com aberturas laterais. Fecho de botões à frente.",
+    "price": 16.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.1,
+    "popularity": 100,
+    "stock": 24,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH12 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH12 - 1.jpg",
+      "/assets/images/products/CamisaH12 - 2.jpg",
+      "/assets/images/products/CamisaH12 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 6
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 6
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 6
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Camisa Relaxed Fit Conchas",
+    "description": "Camisa relaxed fit. Gola bowling e manga curta. Aplicação frontal combinada a contraste. Parte inferior com aberturas laterais. Fecho frontal de botões.",
+    "price": 14.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.4,
+    "popularity": 100,
+    "stock": 28,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH13 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH13 - 1.jpg",
+      "/assets/images/products/CamisaH13 - 2.jpg",
+      "/assets/images/products/CamisaH13 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 7
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Camisa Jacquard Com Textura",
+    "description": "Camisa relaxed fit confecionada em tecido de viscose. Colarinho bowling e manga curta. Fecho de botões à frente.",
+    "price": 16.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 3.8,
+    "popularity": 70,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH14 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH14 - 1.jpg",
+      "/assets/images/products/CamisaH14 - 2.jpg",
+      "/assets/images/products/CamisaH14 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Brown",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Brown",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Brown",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Brown",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Camisa Jacquard Com Textura",
+    "description": "Camisa relaxed fit confecionada em tecido de viscose. Colarinho bowling e manga curta. Fecho de botões à frente.",
+    "price": 16.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 3.9,
+    "popularity": 80,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH15 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH15 - 1.jpg",
+      "/assets/images/products/CamisaH15 - 2.jpg",
+      "/assets/images/products/CamisaH15 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Camisa Com Bolsos e Bordado",
+    "description": "Camisa boxy fit confecionada em tecido de algodão com estrutura. Gola de lapela e manga curta. Aplicação de bolsos multifunções de chapa com lapela. Texto bordado combinado a contraste no peito. Efeito lavado. Fecho frontal de botões.",
+    "price": 18.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.8,
+    "popularity": 110,
+    "stock": 28,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH16 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH16 - 1.jpg",
+      "/assets/images/products/CamisaH16 - 2.jpg",
+      "/assets/images/products/CamisaH16 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 7
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Camisa Relaxed Fit Às Riscas",
+    "description": "Camisa relaxed fit confecionada em tecido leve de algodão. Colarinho de abas e manga curta. Fecho frontal com botões.",
+    "price": 14.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 3.8,
+    "popularity": 70,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH17 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH17 - 1.jpg",
+      "/assets/images/products/CamisaH17 - 2.jpg",
+      "/assets/images/products/CamisaH17 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Camisa Relaxed Fit Às Riscas",
+    "description": "Camisa relaxed fit confecionada em tecido leve de algodão. Colarinho de abas e manga curta. Fecho frontal com botões.",
+    "price": 14.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.3,
+    "popularity": 90,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH18 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH18 - 1.jpg",
+      "/assets/images/products/CamisaH18 - 2.jpg",
+      "/assets/images/products/CamisaH18 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Camisa Relaxed Fit Às Riscas",
+    "description": "Camisa relaxed fit confecionada em tecido leve de algodão. Colarinho de abas e manga curta. Fecho frontal com botões.",
+    "price": 16.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.1,
+    "popularity": 90,
+    "stock": 12,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH19 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH19 - 1.jpg",
+      "/assets/images/products/CamisaH19 - 2.jpg",
+      "/assets/images/products/CamisaH19 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Camisa Relaxed Fit Aos Quadrados",
+    "description": "Camisa relaxed fit confecionada em tecido leve de algodão. Colarinho de abas e manga curta. Fecho frontal com botões.",
+    "price": 18.99,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 4.7,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CamisaH20 - 1.jpg",
+    "images": [
+      "/assets/images/products/CamisaH20 - 1.jpg",
+      "/assets/images/products/CamisaH20 - 2.jpg",
+      "/assets/images/products/CamisaH20 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Red",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "Red",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Red",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Red",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Vestido Halter Drapeado",
+    "description": "Vestido midi de gola halter confecionado em fiação com mistura de poliamida. Costas descobertas. Detalhe de aplicação metálica na frente e drapeado lateral.",
+    "price": 27.95,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 4.6,
+    "popularity": 87,
+    "stock": 15,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-2-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-2-1.jpg",
+      "/assets/images/products/vestido-2-1.jpg",
+      "/assets/images/products/vestido-2-1.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Vestido Midi Com Estampado",
+    "description": "Vestido midi com decote em bico e manga curta abalonada com acabamento em elástico. Bainha com acabamento em folho.",
+    "price": 19.99,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 4.0,
+    "popularity": 60,
+    "stock": 20,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-3-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-3-1.jpg",
+      "/assets/images/products/vestido-3-2.jpg",
+      "/assets/images/products/vestido-3-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue/White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Blue/White",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Blue/White",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Blue/White",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Vestido Midi às Bolinhas zw Collection",
+    "description": "Vestido midi confecionado em fiado com linho 10%. Gola redonda e manga cava. Bainha com acabamento em linha evasé. Fecho nas costas com fecho de correr oculto na costura.",
+    "price": 49.95,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 3.5,
+    "popularity": 75,
+    "stock": 20,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-4-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-4-1.jpg",
+      "/assets/images/products/vestido-4-2.jpg",
+      "/assets/images/products/vestido-4-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black/White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black/White",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black/White",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black/White",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Vestido Midi de Popelina com Estampado Floral",
+    "description": "Vestido com gola de lapela e manga curta com laços. Detalhe de cinto do mesmo tecido. Bolsos laterais ocultos na costura. Fecho frontal com botões e cinto do mesmo tecido.",
+    "price": 39.95,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 5.5,
+    "popularity": 79,
+    "stock": 20,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-5-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-5-1.jpg",
+      "/assets/images/products/vestido-5-2.jpg",
+      "/assets/images/products/vestido-5-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Vestido Midi Cut Out",
+    "description": "Vestido midi confecionado em fiação com mistura de poliamida. Decote reto e alças finas ajustáveis com laços. Detalhe de aplicação metálica na frente e cut out. Drapeado lateral.",
+    "price": 29.95,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 87,
+    "stock": 20,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-6-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-6-1.jpg",
+      "/assets/images/products/vestido-6-2.jpg",
+      "/assets/images/products/vestido-6-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Vestido Combinado de Malha",
+    "description": "Vestido de decote redondo e sem mangas. Detalhe de tecido com relevo e parte inferior com tecido combinado.",
+    "price": 20.99,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 7.8,
+    "popularity": 66,
+    "stock": 11,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-7-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-7-1.jpg",
+      "/assets/images/products/vestido-7-2.jpg",
+      "/assets/images/products/vestido-7-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Vestido Midi Lavado",
+    "description": "Vestido midi confecionado em fio de algodão. Gola redonda e manga curta. Parte inferior com abertura na frente.",
+    "price": 20.0,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 50,
+    "stock": 5,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-8-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-8-1.jpg",
+      "/assets/images/products/vestido-8-2.jpg",
+      "/assets/images/products/vestido-8-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Vestido Curto Combinado Com Volume",
+    "description": "Vestido curto com decote direito e alças finas. Detalhe de combinação de tecidos a tom. Parte inferior com acabamento em folho.",
+    "price": 23.15,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 59,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-9-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-9-1.jpg",
+      "/assets/images/products/vestido-9-2.jpg",
+      "/assets/images/products/vestido-9-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Vestido Midi Corseteiro Com Linho",
+    "description": "Vestido confecionado com linho. Decote reto e justo com franzidos e renda. Alças finas. Detalhe de entremeios frontais a condizer. Parte inferior com abertura nas costas. Fecho lateral com zip oculto na costura.",
+    "price": 30.0,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 78,
+    "gender": "mulher",
+    "stock": 20,
+    "image": "/assets/images/products/vestido-10-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-10-1.jpg",
+      "/assets/images/products/vestido-10-2.jpg",
+      "/assets/images/products/vestido-10-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Vestido Curto Acetinado Com Laços",
+    "description": "Vestido curto confecionado em tecido acetinado. Decote reto e alças finas. Detalhe de laços combinados contrastantes. Forro interior. Fecho nas costas com fecho de correr oculto na costura.",
+    "price": 32.1,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 80,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-11-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-11-1.jpg",
+      "/assets/images/products/vestido-11-2.jpg",
+      "/assets/images/products/vestido-11-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Vestido Assimétrico Drapeado",
+    "description": "Vestido curto confecionado em tecido acetinado. Decote reto e alças finas. Detalhe de laços combinados contrastantes. Forro interior. Fecho nas costas com fecho de correr oculto na costura.",
+    "price": 27.1,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 10,
+    "popularity": 90,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-12-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-12-1.jpg",
+      "/assets/images/products/vestido-12-2.jpg",
+      "/assets/images/products/vestido-12-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Red",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Red",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Red",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Red",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Vestido Midi Flores de Malha",
+    "description": "Vestido de decote direito com tecido em estrutura em forma de flor e ombros descobertos. Fecho lateral com fecho de correr oculto na costura.",
+    "price": 40.25,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 70,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-13-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-13-1.jpg",
+      "/assets/images/products/vestido-13-2.jpg",
+      "/assets/images/products/vestido-13-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Red",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Red",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Red",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Red",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Vestido Mini Halter Acetinado",
+    "description": "Vestido com gola halter e costas descobertas. Fecho no pescoço com botões ocultos.",
+    "price": 25.15,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 70,
+    "stock": 13,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-14-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-14-1.jpg",
+      "/assets/images/products/vestido-14-2.jpg",
+      "/assets/images/products/vestido-14-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Vestido Halter Combinado",
+    "description": "Vestido midi de gola halter. Costas descobertas. Detalhe de combinação de tecidos no mesmo tom.",
+    "price": 23.5,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 75,
+    "stock": 11,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-15-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-15-1.jpg",
+      "/assets/images/products/vestido-15-2.jpg",
+      "/assets/images/products/vestido-15-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Vestido Cut Out Combinado",
+    "description": "Vestido midi com decote redondo e alças finas. Detalhe de combinação de tecidos a combinar e cut out na parte da frente. Bainha arredondada.",
+    "price": 20.25,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 83,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-16-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-16-1.jpg",
+      "/assets/images/products/vestido-16-2.jpg",
+      "/assets/images/products/vestido-16-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Vestido Midi Com Volume e Bordados ",
+    "description": "Vestido de decote direito e alças finas. Detalhe de entremeios e bordados perfurados a combinar.",
+    "price": 34.99,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 4,
+    "popularity": 43,
+    "stock": 5,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-17-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-17-1.jpg",
+      "/assets/images/products/vestido-17-2.jpg",
+      "/assets/images/products/vestido-17-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Vestido Folhos ZW Collection",
+    "description": "Vestido confecionado em fiação com viscose e com algodão. Decote em bico e alças finas. Detalhe de folhos no mesmo tecido. Acabamentos desfiados.",
+    "price": 59.99,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 76,
+    "stock": 20,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-18-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-18-1.jpg",
+      "/assets/images/products/vestido-18-2.jpg",
+      "/assets/images/products/vestido-18-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Brown",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Brown",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Brown",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Brown",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Vestido Midi Acetinado Aplique Dourado",
+    "description": "Vestido de decote redondo com aplique dourado e manga cava. Pregas laterais na cintura. Detalhe de tecido acetinado com efeito enrugado. Bainha com abertura nas costas. Fecho lateral com fecho éclair oculto na costura e botão traseiro.",
+    "price": 30.99,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 66,
+    "stock": 13,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-19-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-19-1.jpg",
+      "/assets/images/products/vestido-19-2.jpg",
+      "/assets/images/products/vestido-19-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Vestido Fluido Com Cinto",
+    "description": "Vestido midi fluido de decote em bico e manga curta descaída. Cinto no mesmo tecido ajustável com laços. Fecho frontal com botões.",
+    "price": 20.95,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 5,
+    "popularity": 46,
+    "stock": 11,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-20-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-20-1.jpg",
+      "/assets/images/products/vestido-20-2.jpg",
+      "/assets/images/products/vestido-20-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "T-shirt De Malha Relaxed Fit ",
+    "description": "T-shirt relaxed fit tecida em fio com mistura de algodão. Gola redonda e manga curta. Acabamentos em canelado.",
+    "price": 9.99,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 4.3,
+    "popularity": 100,
+    "stock": 32,
+    "gender": "homem",
+    "image": "/assets/images/products/TshirtH1 - 1.jpg",
+    "images": [
+      "/assets/images/products/TshirtH1 - 1.jpg",
+      "/assets/images/products/TshirtH1 - 2.jpg",
+      "/assets/images/products/TshirtH1 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 8
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 8
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "T-shirt De Malha Relaxed Fit ",
+    "description": "T-shirt relaxed fit tecida em fio com mistura de algodão. Gola redonda e manga curta. Acabamentos em canelado.",
+    "price": 9.99,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 4.1,
+    "popularity": 80,
+    "stock": 32,
+    "gender": "homem",
+    "image": "/assets/images/products/TshirtH2 - 1.jpg",
+    "images": [
+      "/assets/images/products/TshirtH2 - 1.jpg",
+      "/assets/images/products/TshirtH2 - 2.jpg",
+      "/assets/images/products/TshirtH2 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Brown",
+        "size": "S",
+        "stock": 8
+      },
+      {
+        "color": "Brown",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "color": "Brown",
+        "size": "L",
+        "stock": 8
+      },
+      {
+        "color": "Brown",
+        "size": "XL",
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "T-shirt De Malha Relaxed Fit ",
+    "description": "T-shirt relaxed fit tecida em fio com mistura de algodão. Gola redonda e manga curta. Acabamentos em canelado.",
+    "price": 9.99,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 4.6,
+    "popularity": 100,
+    "stock": 40,
+    "gender": "homem",
+    "image": "/assets/images/products/TshirtH3 - 1.jpg",
+    "images": [
+      "/assets/images/products/TshirtH3 - 1.jpg",
+      "/assets/images/products/TshirtH3 - 2.jpg",
+      "/assets/images/products/TshirtH3 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 10
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 10
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 10
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "T-shirt De Malha Relaxed Fit ",
+    "description": "T-shirt relaxed fit tecida em fio com mistura de algodão. Gola redonda e manga curta. Acabamentos em canelado.",
+    "price": 9.99,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 4.1,
+    "popularity": 100,
+    "stock": 32,
+    "gender": "homem",
+    "image": "/assets/images/products/TshirtH4 - 1.jpg",
+    "images": [
+      "/assets/images/products/TshirtH4 - 1.jpg",
+      "/assets/images/products/TshirtH4 - 2.jpg",
+      "/assets/images/products/TshirtH4 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 8
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 8
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "T-shirt De Malha Relaxed Fit ",
+    "description": "T-shirt relaxed fit tecida em fio com mistura de algodão. Gola redonda e manga curta. Acabamentos em canelado.",
+    "price": 9.99,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 4.7,
+    "popularity": 100,
+    "stock": 40,
+    "gender": "homem",
+    "image": "/assets/images/products/TshirtH5 - 1.jpg",
+    "images": [
+      "/assets/images/products/TshirtH5 - 1.jpg",
+      "/assets/images/products/TshirtH5 - 2.jpg",
+      "/assets/images/products/TshirtH5 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 8
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 8
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "T-shirt Básica Com Decote Em V",
+    "description": "T-shirt slim fit confecionada em algodão com elasticidade. Decote em bico e manga curta.",
+    "price": 12.99,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 3.6,
+    "popularity": 70,
+    "gender": "homem",
+    "stock": 20,
+    "image": "/assets/images/products/TshirtH6 - 1.jpg",
+    "images": [
+      "/assets/images/products/TshirtH6 - 1.jpg",
+      "/assets/images/products/TshirtH6 - 2.jpg",
+      "/assets/images/products/TshirtH6 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "T-shirt Básica Com Decote Em V",
+    "description": "T-shirt slim fit confecionada em algodão com elasticidade. Decote em bico e manga curta.",
+    "price": 12.99,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 3.8,
+    "popularity": 80,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/TshirtH7 - 1.jpg",
+    "images": [
+      "/assets/images/products/TshirtH7 - 1.jpg",
+      "/assets/images/products/TshirtH7 - 2.jpg",
+      "/assets/images/products/TshirtH7 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "T-shirt Básica Malha",
+    "description": "T-shirt regular fit de malha tecida em fio de algodão. Decote redondo e manga curta. Acabamentos em nervuras.",
+    "price": 10.99,
+    "category": "new in",
+    "subcategory": "",
+    "rating": 4.8,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/TshirtH8 - 1.jpg",
+    "images": [
+      "/assets/images/products/TshirtH8 - 1.jpg",
+      "/assets/images/products/TshirtH8 - 2.jpg",
+      "/assets/images/products/TshirtH8 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Green",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Green",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Green",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Green",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "T-shirt Básica Malha",
+    "description": "T-shirt regular fit de malha tecida em fio de algodão. Decote redondo e manga curta. Acabamentos em nervuras.",
+    "price": 10.99,
+    "category": "new in",
+    "subcategory": "",
+    "rating": 4.9,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/TshirtH9 - 1.jpg",
+    "images": [
+      "/assets/images/products/TshirtH9 - 1.jpg",
+      "/assets/images/products/TshirtH9 - 2.jpg",
+      "/assets/images/products/TshirtH9 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "T-shirt Básica Malha",
+    "description": "T-shirt regular fit de malha tecida em fio de algodão. Decote redondo e manga curta. Acabamentos em nervuras.",
+    "price": 10.99,
+    "category": "new in",
+    "subcategory": "",
+    "rating": 4.9,
+    "popularity": 100,
+    "gender": "homem",
+    "stock": 20,
+    "image": "/assets/images/products/TshirtH10 - 1.jpg",
+    "images": [
+      "/assets/images/products/TshirtH10 - 1.jpg",
+      "/assets/images/products/TshirtH10 - 2.jpg",
+      "/assets/images/products/TshirtH10 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Calças Com Estrutura Confort",
+    "description": "Calças slim fit confecionadas em tecido com elasticidade em ambas as direções. Bolsos à frente e pormenor de bolsos traseiros de abertura debruada com botão. Fecho de correr e botão à frente.",
+    "price": 20.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.5,
+    "popularity": 80,
+    "stock": 32,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH1 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH1 - 1.jpg",
+      "/assets/images/products/CalçasH1 - 2.jpg",
+      "/assets/images/products/CalçasH1 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 8
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 8
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Calças Com Estrutura Confort",
+    "description": "Calças slim fit confecionadas em tecido com elasticidade em ambas as direções. Bolsos à frente e pormenor de bolsos traseiros de abertura debruada com botão. Fecho de correr e botão à frente.",
+    "price": 20.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.6,
+    "popularity": 90,
+    "stock": 28,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH2 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH2 - 1.jpg",
+      "/assets/images/products/CalçasH2 - 2.jpg",
+      "/assets/images/products/CalçasH2 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Grey",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "color": "Grey",
+        "size": "M",
+        "stock": 7
+      },
+      {
+        "color": "Grey",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "color": "Grey",
+        "size": "XL",
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Calças Com Estrutura Confort",
+    "description": "Calças slim fit confecionadas em tecido com elasticidade em ambas as direções. Bolsos à frente e pormenor de bolsos traseiros de abertura debruada com botão. Fecho de correr e botão à frente.",
+    "price": 20.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.6,
+    "popularity": 100,
+    "stock": 32,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH3 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH3 - 1.jpg",
+      "/assets/images/products/CalçasH3 - 2.jpg",
+      "/assets/images/products/CalçasH3 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 8
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 8
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Calças Com Estrutura Confort",
+    "description": "Calças slim fit confecionadas em tecido com elasticidade em ambas as direções. Bolsos à frente e pormenor de bolsos traseiros de abertura debruada com botão. Fecho de correr e botão à frente.",
+    "price": 20.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.3,
+    "popularity": 100,
+    "stock": 28,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH4 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH4 - 1.jpg",
+      "/assets/images/products/CalçasH4 - 2.jpg",
+      "/assets/images/products/CalçasH4 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Bege",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "color": "Bege",
+        "size": "M",
+        "stock": 7
+      },
+      {
+        "color": "Bege",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "color": "Bege",
+        "size": "XL",
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Calças Com Estrutura Confort",
+    "description": "Calças slim fit confecionadas em tecido com elasticidade em ambas as direções. Bolsos à frente e pormenor de bolsos traseiros de abertura debruada com botão. Fecho de correr e botão à frente.",
+    "price": 20.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.4,
+    "popularity": 100,
+    "stock": 28,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH5 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH5 - 1.jpg",
+      "/assets/images/products/CalçasH5 - 2.jpg",
+      "/assets/images/products/CalçasH5 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Grey",
+        "size": "S",
+        "stock": 7
+      },
+      {
+        "color": "Grey",
+        "size": "M",
+        "stock": 7
+      },
+      {
+        "color": "Grey",
+        "size": "L",
+        "stock": 7
+      },
+      {
+        "color": "Grey",
+        "size": "XL",
+        "stock": 7
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Calças De Cintura Jogger",
+    "description": "Calças de cintura elástica ajustável com cordão. Bolsos laterais e detalhe de bolsos traseiros debruados. Bainha com acabamento com dobra.",
+    "price": 16.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.8,
+    "popularity": 80,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH6 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH6 - 1.jpg",
+      "/assets/images/products/CalçasH6 - 2.jpg",
+      "/assets/images/products/CalçasH6 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Calças De Cintura Jogger",
+    "description": "Calças de cintura elástica ajustável com cordão. Bolsos laterais e detalhe de bolsos traseiros debruados. Bainha com acabamento com dobra.",
+    "price": 16.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.6,
+    "popularity": 90,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH7 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH7 - 1.jpg",
+      "/assets/images/products/CalçasH7 - 2.jpg",
+      "/assets/images/products/CalçasH7 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Calças De Cintura Jogger",
+    "description": "Calças de cintura elástica ajustável com cordão. Bolsos laterais e detalhe de bolsos traseiros debruados. Bainha com acabamento com dobra.",
+    "price": 16.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.2,
+    "popularity": 70,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH8 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH8 - 1.jpg",
+      "/assets/images/products/CalçasH8 - 2.jpg",
+      "/assets/images/products/CalçasH8 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Bege",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Bege",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Bege",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Bege",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Calças De Cintura Jogger",
+    "description": "Calças de cintura elástica ajustável com cordão. Bolsos laterais e detalhe de bolsos traseiros debruados. Bainha com acabamento com dobra.",
+    "price": 16.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.4,
+    "popularity": 75,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH9 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH9 - 1.jpg",
+      "/assets/images/products/CalçasH9 - 2.jpg",
+      "/assets/images/products/CalçasH9 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Calças De Cintura Jogger",
+    "description": "Calças de cintura elástica ajustável com cordão. Bolsos laterais e detalhe de bolsos traseiros debruados. Bainha com acabamento com dobra.",
+    "price": 16.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.0,
+    "popularity": 70,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH10 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH10 - 1.jpg",
+      "/assets/images/products/CalçasH10 - 2.jpg",
+      "/assets/images/products/CalçasH10 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Green",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Green",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Green",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Green",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Calças 100% Linho",
+    "description": "Calças relaxed fit confecionadas em tecido de linho. Cintura ajustável com cordão. Bolsos à frente e detalhe de bolsos de chapa atrás.",
+    "price": 18.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 3.7,
+    "popularity": 60,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH11 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH11 - 1.jpg",
+      "/assets/images/products/CalçasH11 - 2.jpg",
+      "/assets/images/products/CalçasH11 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Calças 100% Linho",
+    "description": "Calças relaxed fit confecionadas em tecido de linho. Cintura ajustável com cordão. Bolsos à frente e detalhe de bolsos de chapa atrás.",
+    "price": 18.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 3.9,
+    "popularity": 65,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH12 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH12 - 1.jpg",
+      "/assets/images/products/CalçasH12 - 2.jpg",
+      "/assets/images/products/CalçasH12 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Calças 100% Linho",
+    "description": "Calças relaxed fit confecionadas em tecido de linho. Cintura ajustável com cordão. Bolsos à frente e detalhe de bolsos de chapa atrás.",
+    "price": 18.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 3.5,
+    "popularity": 55,
+    "stock": 12,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH13 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH13 - 1.jpg",
+      "/assets/images/products/CalçasH13 - 2.jpg",
+      "/assets/images/products/CalçasH13 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Brown",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "Brown",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Brown",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Brown",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Calças 100% Linho",
+    "description": "Calças relaxed fit confecionadas em tecido de linho. Cintura ajustável com cordão. Bolsos à frente e detalhe de bolsos de chapa atrás.",
+    "price": 18.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 3.9,
+    "popularity": 70,
+    "stock": 16,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH14 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH14 - 1.jpg",
+      "/assets/images/products/CalçasH14 - 2.jpg",
+      "/assets/images/products/CalçasH14 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Calças Pregas Cinto",
+    "description": "Calças relaxed fit. Cintura com detalhe de cinto do mesmo tecido e pregas frontais. Bolsos na frente e detalhe de bolsos traseiros de linha viva. Fecho frontal com fecho de correr e botão.",
+    "price": 25.99,
+    "category": "new in",
+    "subcategory": "",
+    "rating": 4.5,
+    "popularity": 80,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH15 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH15 - 1.jpg",
+      "/assets/images/products/CalçasH15 - 2.jpg",
+      "/assets/images/products/CalçasH15 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Calças De Fato Conforto",
+    "description": "Calças slim fit confecionadas em tecido com viscose. Bolsos à frente e detalhe de bolsos traseiros com linha viva. Fecho frontal com fecho de correr e botão.",
+    "price": 20.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.6,
+    "popularity": 90,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH16 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH16 - 1.jpg",
+      "/assets/images/products/CalçasH16 - 2.jpg",
+      "/assets/images/products/CalçasH16 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Calças De Fato Conforto",
+    "description": "Calças slim fit confecionadas em tecido com viscose. Bolsos à frente e detalhe de bolsos traseiros com linha viva. Fecho frontal com fecho de correr e botão.",
+    "price": 20.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.4,
+    "popularity": 90,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH17 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH17 - 1.jpg",
+      "/assets/images/products/CalçasH17 - 2.jpg",
+      "/assets/images/products/CalçasH17 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Calças De Fato Conforto",
+    "description": "Calças slim fit confecionadas em tecido com viscose. Bolsos à frente e detalhe de bolsos traseiros com linha viva. Fecho frontal com fecho de correr e botão.",
+    "price": 20.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.6,
+    "popularity": 90,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH18 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH18 - 1.jpg",
+      "/assets/images/products/CalçasH18 - 2.jpg",
+      "/assets/images/products/CalçasH18 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Calças De Fato Conforto",
+    "description": "Calças slim fit confecionadas em tecido com viscose. Bolsos à frente e detalhe de bolsos traseiros com linha viva. Fecho frontal com fecho de correr e botão.",
+    "price": 20.99,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4.3,
+    "popularity": 90,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH19 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH19 - 1.jpg",
+      "/assets/images/products/CalçasH19 - 2.jpg",
+      "/assets/images/products/CalçasH19 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Brown",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Brown",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Brown",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Brown",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Calças Largas De Ganga",
+    "description": "Jeans oversize relax fit confecionados em denim de algodão. Bolsos frontais e detalhe de bolsos traseiros de bolso de chapa com aba. Efeito lavado. Bainha com acabamento irregular. Fecho frontal com fecho de correr e botão.",
+    "price": 25.99,
+    "category": "new in",
+    "subcategory": "",
+    "rating": 4.5,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CalçasH20 - 1.jpg",
+    "images": [
+      "/assets/images/products/CalçasH20 - 1.jpg",
+      "/assets/images/products/CalçasH20 - 2.jpg",
+      "/assets/images/products/CalçasH20 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Brown",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Brown",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Brown",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Brown",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "T-shirt com gola assimétrica e rufados",
+    "description": "Tecido fluido. Design reto. Decote assimétrico. Pormenores de rufos. Sem mangas. Visual total.",
+    "price": 14.99,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 73,
+    "stock": 6,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-1-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-1-1.jpg",
+      "/assets/images/products/tshirtM-1-2.jpg",
+      "/assets/images/products/tshirtM-1-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Bege",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Bege",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "Bege",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Bege",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "T-shirt Com Folhos",
+    "description": "T-shirt confecionada em fio de algodão. Gola redonda e manga curta. Detalhe de folhos no mesmo tecido.",
+    "price": 14.99,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 40,
+    "stock": 12,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-2-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-2-1.jpg",
+      "/assets/images/products/tshirtM-2-2.jpg",
+      "/assets/images/products/tshirtM-2-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "T-shirt de Poliamida com Alças Amplas",
+    "description": "T-shirt justa em mistura de poliamida com alça larga e reforço no peito.",
+    "price": 7.99,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 82,
+    "stock": 6,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-3-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-3-1.jpg",
+      "/assets/images/products/tshirtM-3-2.jpg",
+      "/assets/images/products/tshirtM-3-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Pink",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "Pink",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Pink",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "Pink",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "T-shirt de Algodão Desbotada",
+    "description": "T-shirt confecionada em fio de algodão. Decote redondo e manga curta. Efeito lavado.",
+    "price": 8.99,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 76,
+    "stock": 5,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-4-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-4-1.jpg",
+      "/assets/images/products/tshirtM-4-2.jpg",
+      "/assets/images/products/tshirtM-4-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "T-shirt Rústica Manga Descaída",
+    "description": "T-shirt confecionada em fio de algodão. Gola redonda e manga curta descaída com acabamento com dobra.",
+    "price": 10.99,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 82,
+    "stock": 7,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-5-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-5-1.jpg",
+      "/assets/images/products/tshirtM-5-2.jpg",
+      "/assets/images/products/tshirtM-5-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Bege",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Bege",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "Bege",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Bege",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "T-shirt Interlock Manga Curta",
+    "description": "T-shirt confecionada em tecido de malha elástica e flexível com trama compacta, suavizada e opaca. Decote redondo e manga curta.",
+    "price": 10.0,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 55,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-6-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-6-1.jpg",
+      "/assets/images/products/tshirtM-6-2.jpg",
+      "/assets/images/products/tshirtM-6-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Pink",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "Pink",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Pink",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "Pink",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "T-shirt Vivo Contrastante",
+    "description": "T-shirt confecionada em mistura de algodão e liocel. Decote redondo e alças finas. Detalhe de acabamentos em vivo contrastante.",
+    "price": 12.0,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 75,
+    "stock": 12,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-7-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-7-1.jpg",
+      "/assets/images/products/tshirtM-7-2.jpg",
+      "/assets/images/products/tshirtM-7-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "T-shirt Assimétrica Lavada",
+    "description": "T-shirt de decote redondo com cava descaída e manga curta. Detalhe de franzidos laterais.",
+    "price": 13.5,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 85,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-8-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-8-1.jpg",
+      "/assets/images/products/tshirtM-8-2.jpg",
+      "/assets/images/products/tshirtM-8-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Bege",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Bege",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Bege",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "Bege",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "T-shirt Poliamida Alça Fina",
+    "description": "T-shirt ajustada confecionada em tecido com mistura de poliamida com decote redondo e alças.",
+    "price": 6.5,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 10,
+    "popularity": 97,
+    "stock": 15,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-9-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-9-1.jpg",
+      "/assets/images/products/tshirtM-9-2.jpg",
+      "/assets/images/products/tshirtM-9-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "T-shirt Slim com Algodão Supima®",
+    "description": "T-shirt confecionada em fio com 51% de algodão. Gola redonda e manga curta. ",
+    "price": 10.5,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 78,
+    "stock": 14,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-10-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-10-1.jpg",
+      "/assets/images/products/tshirtM-10-2.jpg",
+      "/assets/images/products/tshirtM-10-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "T-shirt Vivo Contrastante",
+    "description": "T-shirt confecionada em mistura de algodão e liocel. Decote redondo e alças finas. Detalhe de acabamentos em vivo contrastante.",
+    "price": 11.0,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 57,
+    "stock": 8,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-11-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-11-1.jpg",
+      "/assets/images/products/tshirtM-11-2.jpg",
+      "/assets/images/products/tshirtM-11-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Jeans Zw Collection Palazzo Cintura Subida",
+    "description": "Jeans de cintura subida e cós com passadores. Cinco bolsos. Perna larga. Fecho frontal com zip e botão.",
+    "price": 39.95,
+    "category": "jeans",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 60,
+    "stock": 15,
+    "gender": "mulher",
+    "image": "/assets/images/products/jeansM-2-1.jpg",
+    "images": [
+      "/assets/images/products/jeansM-2-1.jpg",
+      "/assets/images/products/jeansM-2-2.jpg",
+      "/assets/images/products/jeansM-2-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Jeans Z1975 Wide Leg Cintura Média Com Pinças",
+    "description": "Jeans de cintura média com pinças frontais. Bolsos frontais e bolsos de chapa atrás. Perna larga. Fecho frontal com fecho de correr e botão.",
+    "price": 29.95,
+    "category": "jeans",
+    "subcategory": "wide leg",
+    "rating": 6,
+    "popularity": 80,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/jeansM-3-1.jpg",
+    "images": [
+      "/assets/images/products/jeansM-3-1.jpg",
+      "/assets/images/products/jeansM-3-2.jpg",
+      "/assets/images/products/jeansM-3-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Top com Nervuras",
+    "description": "Top justo de decote redondo e sem mangas.",
+    "price": 9.5,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 62,
+    "stock": 11,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-14-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-14-1.jpg",
+      "/assets/images/products/tshirtM-14-2.jpg",
+      "/assets/images/products/tshirtM-14-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Jeans Zw Collection Wide Leg Cintura Baixa",
+    "description": "Jeans de cintura baixa com presilhas. Cinco bolsos. Perna larga. Fecho de correr e botão metálico à frente.",
+    "price": 35.95,
+    "category": "jeans",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 55,
+    "stock": 11,
+    "gender": "mulher",
+    "image": "/assets/images/products/jeansM-5-1.jpg",
+    "images": [
+      "/assets/images/products/jeansM-5-1.jpg",
+      "/assets/images/products/jeansM-5-2.jpg",
+      "/assets/images/products/jeansM-5-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Jeans Trf Direitos de cintura Baixa",
+    "description": "Jeans de cintura baixa com presilhas e cinco bolsos. Fecho frontal com fecho de correr e botão metálico.",
+    "price": 29.95,
+    "category": "jeans",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 65,
+    "stock": 16,
+    "gender": "mulher",
+    "image": "/assets/images/products/jeansM-6-1.jpg",
+    "images": [
+      "/assets/images/products/jeansM-6-1.jpg",
+      "/assets/images/products/jeansM-6-2.jpg",
+      "/assets/images/products/jeansM-6-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Jeans Trf Wide Leg Cintura Baixa",
+    "description": "Jeans de cintura baixa e cinco bolsos. Perna larga extra comprida. Fecho de correr e botão metálico à frente.",
+    "price": 29.95,
+    "category": "jeans",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 50,
+    "stock": 9,
+    "gender": "mulher",
+    "image": "/assets/images/products/jeansM-7-1.jpg",
+    "images": [
+      "/assets/images/products/jeansM-7-1.jpg",
+      "/assets/images/products/jeansM-7-2.jpg",
+      "/assets/images/products/jeansM-7-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Jeans Z1975 Slim Flare Cintura Baixa Comprimento Longo Rasgados",
+    "description": "Jeans de cintura baixa com cinco bolsos. Detalhe de rasgo na frente. Fecho frontal com fecho de correr e botão.",
+    "price": 29.95,
+    "category": "jeans",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 60,
+    "stock": 8,
+    "gender": "mulher",
+    "image": "/assets/images/products/jeansM-8-1.jpg",
+    "images": [
+      "/assets/images/products/jeansM-8-1.jpg",
+      "/assets/images/products/jeansM-8-2.jpg",
+      "/assets/images/products/jeansM-8-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Calças de Ganga Trf Wide Leg Cintura Média",
+    "description": "Jeans de cintura média e cinco bolsos. Perna ampla extra larga. Fecho de correr e botão metálico.",
+    "price": 29.95,
+    "category": "jeans",
+    "subcategory": "",
+    "rating": 5,
+    "popularity": 40,
+    "stock": 12,
+    "gender": "mulher",
+    "image": "/assets/images/products/jeansM-9-1.jpg",
+    "images": [
+      "/assets/images/products/jeansM-9-1.jpg",
+      "/assets/images/products/jeansM-9-2.jpg",
+      "/assets/images/products/jeansM-9-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Jeans Trf Baggy Com Ragões Cintura Média",
+    "description": "Jeans de cintura média com presilhas e cinco bolsos. Detalhe de rasgões. Fecho frontal assimétrico com fecho de correr e botões metálicos.",
+    "price": 39.95,
+    "category": "jeans",
+    "subcategory": "",
+    "rating": 5,
+    "popularity": 40,
+    "stock": 13,
+    "gender": "mulher",
+    "image": "/assets/images/products/jeansM-10-1.jpg",
+    "images": [
+      "/assets/images/products/jeansM-10-1.jpg",
+      "/assets/images/products/jeansM-10-2.jpg",
+      "/assets/images/products/jeansM-10-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Calças com Lã Pinças 50th Anniversary",
+    "description": "Calças confecionadas em fiação com lã. Cintura média e cós com presilhas. Bolsos laterais e com aba atrás. Pormenor de pinças e risca engomada à frente. Fecho frontal com fecho de correr, botão e ganchos metálicos.",
+    "price": 29.95,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 50,
+    "stock": 9,
+    "gender": "mulher",
+    "image": "/assets/images/products/calcasM-1-1.jpg",
+    "images": [
+      "/assets/images/products/calcasM-1-1.jpg",
+      "/assets/images/products/calcasM-1-2.jpg",
+      "/assets/images/products/calcasM-1-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": " Calças Acetinadas de Fato 50th Anniversary",
+    "description": "Calças confecionadas em tecido acetinado. Cintura subida com presilhas. Bolsos laterais e com abertura debruada com botão atrás. Fecho à frente com fecho de correr e botão.",
+    "price": 60.95,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 72,
+    "stock": 11,
+    "gender": "mulher",
+    "image": "/assets/images/products/calcasM-2-1.jpg",
+    "images": [
+      "/assets/images/products/calcasM-2-1.jpg",
+      "/assets/images/products/calcasM-2-2.jpg",
+      "/assets/images/products/calcasM-2-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Calças de Pele com Pinças e Cinto 50th Anniversary",
+    "description": "Calças confecionadas em 100% pele. De cintura média com passadores. Bolsos laterais e debruados nas costas. Cinto ajustável com fivela metálica. Detalhe de pinças na frente. Perna larga. Fecho frontal com fecho de correr e botão.",
+    "price": 230.0,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 76,
+    "stock": 9,
+    "gender": "mulher",
+    "image": "/assets/images/products/calcasM-3-1.jpg",
+    "images": [
+      "/assets/images/products/calcasM-3-1.jpg",
+      "/assets/images/products/calcasM-3-2.jpg",
+      "/assets/images/products/calcasM-3-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Calças com Linho 50th Anniversary ",
+    "description": "Calças confecionadas em fiação com linho. Cintura subida com presilhas. Bolsos à frente. Pormenor de risca engomada. Fecho frontal com fecho de correr, botão e ganchos metálicos.",
+    "price": 49.35,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 83,
+    "stock": 12,
+    "gender": "mulher",
+    "image": "/assets/images/products/calcasM-4-1.jpg",
+    "images": [
+      "/assets/images/products/calcasM-4-1.jpg",
+      "/assets/images/products/calcasM-4-2.jpg",
+      "/assets/images/products/calcasM-4-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Calças Cinto Mistura Lã 50th Anniversary",
+    "description": "Calças confecionadas em fiação com mistura de lã. De cintura subida e cintura com presilhas. Bolsos laterais e falsos bolsos de vivo nas costas. Detalhe de cós interior contrastante com pespontos. Cinto de laçada no mesmo tecido. Fecho frontal com fecho de correr, botão interior e ganchos metálicos.",
+    "price": 50.0,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 82,
+    "stock": 9,
+    "gender": "mulher",
+    "image": "/assets/images/products/calcasM-5-1.jpg",
+    "images": [
+      "/assets/images/products/calcasM-5-1.jpg",
+      "/assets/images/products/calcasM-5-2.jpg",
+      "/assets/images/products/calcasM-5-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Calças Lã Cinto 50th Anniversary",
+    "description": "Calças confecionadas com fiação em mistura de lã. Cintura subida com presilhas. Bolsos laterais e falsos bolsos com abertura debruada atrás. Pormenor de cós interior a contrastar com pespontos. Cinto de laçada no mesmo tecido. Fecho à frente com fecho de correr, botão interior e ganchos metálicos.",
+    "price": 40.95,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 62,
+    "stock": 6,
+    "gender": "mulher",
+    "image": "/assets/images/products/calcasM-6-1.jpg",
+    "images": [
+      "/assets/images/products/calcasM-6-1.jpg",
+      "/assets/images/products/calcasM-6-2.jpg",
+      "/assets/images/products/calcasM-6-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Calças Abertura 50th Anniversary",
+    "description": "Calças de cintura média confecionadas em fio com mistura de viscose. Cintura com elástico interior. Parte inferior com acabamento em aberturas laterais.",
+    "price": 49.95,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 4,
+    "popularity": 45,
+    "stock": 11,
+    "gender": "mulher",
+    "image": "/assets/images/products/calcasM-7-1.jpg",
+    "images": [
+      "/assets/images/products/calcasM-7-1.jpg",
+      "/assets/images/products/calcasM-7-2.jpg",
+      "/assets/images/products/calcasM-7-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Calças Volume Lã 50th Anniversary",
+    "description": "Calças de cintura média confecionadas em fiação 100% lã. Bolsos laterais ocultos na costura. Pormenor de pinças à frente. Perna muito larga. Fecho frontal com fecho de correr, botão e ganchos metálicos.",
+    "price": 60.95,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 82,
+    "stock": 12,
+    "gender": "mulher",
+    "image": "/assets/images/products/calcasM-8-1.jpg",
+    "images": [
+      "/assets/images/products/calcasM-8-1.jpg",
+      "/assets/images/products/calcasM-8-2.jpg",
+      "/assets/images/products/calcasM-8-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Calças com Fivela 50th Anniversary",
+    "description": "Calças confecionadas em fiação com 21% lã. Cintura média e cós com presilhas. Bolsos laterais e com abertura debruada atrás. Risca engomada à frente. Pormenor de fivela atrás. Fecho frontal com fecho de correr, botão e ganchos metálicos.",
+    "price": 45.25,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 85,
+    "stock": 5,
+    "gender": "mulher",
+    "image": "/assets/images/products/calcasM-9-1.jpg",
+    "images": [
+      "/assets/images/products/calcasM-9-1.jpg",
+      "/assets/images/products/calcasM-9-2.jpg",
+      "/assets/images/products/calcasM-9-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Calças Palazzo ZW Collection",
+    "description": "Calças confecionadas em fio com mistura de liocel. De cintura média e cós elástico ajustável com cordões. Bolsos laterais ocultos na costura. Perna larga.",
+    "price": 39.95,
+    "category": "calcas",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 95,
+    "stock": 15,
+    "gender": "mulher",
+    "image": "/assets/images/products/calcasM-10-1.jpg",
+    "images": [
+      "/assets/images/products/calcasM-10-1.jpg",
+      "/assets/images/products/calcasM-10-2.jpg",
+      "/assets/images/products/calcasM-10-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Saia Midi Acetinada 50th Anniversary",
+    "description": "Saia midi confecionada em tecido acetinado. Cintura média com fecho de correr lateral oculto na costura.",
+    "price": 29.0,
+    "category": "saias",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 95,
+    "stock": 12,
+    "gender": "mulher",
+    "image": "/assets/images/products/Saia-1-1.jpg",
+    "images": [
+      "/assets/images/products/Saia-1-1.jpg",
+      "/assets/images/products/Saia-1-2.jpg",
+      "/assets/images/products/Saia-1-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Saia Midi Organza 50th Anniversary",
+    "description": "Saia midi semitransparente de cintura subida. Bainha com abertura atrás. Fecho de correr oculto na costura.",
+    "price": 45.0,
+    "category": "saias",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 82,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/Saia-2-1.jpg",
+    "images": [
+      "/assets/images/products/Saia-2-1.jpg",
+      "/assets/images/products/Saia-2-2.jpg",
+      "/assets/images/products/Saia-2-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Saia com Linho Estampada",
+    "description": "Saia confecionada com linho. De cintura subida com pinças. Bolsos laterais ocultos na costura. Fecho frontal com botões.",
+    "price": 20.5,
+    "category": "saias",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 63,
+    "stock": 6,
+    "gender": "mulher",
+    "image": "/assets/images/products/Saia-3-1.jpg",
+    "images": [
+      "/assets/images/products/Saia-3-1.jpg",
+      "/assets/images/products/Saia-3-2.jpg",
+      "/assets/images/products/Saia-3-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Yellow",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "Yellow",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "Yellow",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Yellow",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Saia Midi Textura",
+    "description": "Saia de cintura subida com forro interior. Fecho lateral com fecho de correr oculto na costura. Detalhe de tecido com textura.",
+    "price": 35.5,
+    "category": "saias",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 55,
+    "stock": 8,
+    "gender": "mulher",
+    "image": "/assets/images/products/Saia-4-1.jpg",
+    "images": [
+      "/assets/images/products/Saia-4-1.jpg",
+      "/assets/images/products/Saia-4-2.jpg",
+      "/assets/images/products/Saia-4-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Saia Midi Pregas",
+    "description": "Saia midi de cintura subida. Bolsos laterais ocultos na costura. Detalhe de pregas. Fecho de correr lateral oculto na costura.",
+    "price": 25.0,
+    "category": "saias",
+    "subcategory": "",
+    "rating": 4,
+    "popularity": 31,
+    "stock": 5,
+    "gender": "mulher",
+    "image": "/assets/images/products/Saia-5-1.jpg",
+    "images": [
+      "/assets/images/products/Saia-5-1.jpg",
+      "/assets/images/products/Saia-5-2.jpg",
+      "/assets/images/products/Saia-5-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Saia Midi Volume Zw Collection",
+    "description": "Saia midi de cintura subida com elástico. Bainha com acabamento evasê.",
+    "price": 29.0,
+    "category": "saias",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 93,
+    "stock": 15,
+    "gender": "mulher",
+    "image": "/assets/images/products/Saia-6-1.jpg",
+    "images": [
+      "/assets/images/products/Saia-6-1.jpg",
+      "/assets/images/products/Saia-6-2.jpg",
+      "/assets/images/products/Saia-6-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Saia Estampada com Pregas ZW Collection",
+    "description": "Saia midi de cintura média confecionada em fio de algodão. Detalhe de pregas e estampado em contraste. Parte inferior com acabamento em linha evasé. Fecho com fecho de correr oculto na costura.",
+    "price": 50.25,
+    "category": "saias",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 68,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/Saia-7-1.jpg",
+    "images": [
+      "/assets/images/products/Saia-7-1.jpg",
+      "/assets/images/products/Saia-7-2.jpg",
+      "/assets/images/products/Saia-7-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Saia Capa Midi de Popelina",
+    "description": "Saia de cintura subida com pinças dianteiras. Bolsos laterais ocultos na costura. Bainha em evasê. Fecho de correr oculto na costura nas costas.",
+    "price": 32.15,
+    "category": "saias",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 50,
+    "stock": 6,
+    "gender": "mulher",
+    "image": "/assets/images/products/Saia-8-1.jpg",
+    "images": [
+      "/assets/images/products/Saia-8-1.jpg",
+      "/assets/images/products/Saia-8-2.jpg",
+      "/assets/images/products/Saia-8-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White/Pink",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "White/Pink",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "White/Pink",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "White/Pink",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Saia Midi de Popelina Zw Collection",
+    "description": "Saia comprida de cintura subida com cintura elástica. Tecido plissado.",
+    "price": 35.0,
+    "category": "saias",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 72,
+    "stock": 20,
+    "gender": "mulher",
+    "image": "/assets/images/products/Saia-9-1.jpg",
+    "images": [
+      "/assets/images/products/Saia-9-1.jpg",
+      "/assets/images/products/Saia-9-2.jpg",
+      "/assets/images/products/Saia-9-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Red",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Red",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Red",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Red",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Saia Comprida Estampada",
+    "description": "Saia comprida de cintura subida com cintura elástica. Tecido plissado.",
+    "price": 35.0,
+    "category": "saias",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 72,
+    "stock": 20,
+    "gender": "mulher",
+    "image": "/assets/images/products/Saia-9-1.jpg",
+    "images": [
+      "/assets/images/products/Saia-10-1.jpg",
+      "/assets/images/products/Saia-10-2.jpg",
+      "/assets/images/products/Saia-10-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Red",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Red",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Red",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Red",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Camisa de Popelina Extra Comprida 50th Anniversary",
+    "description": "Camisa extra comprida confecionada com fiação 100% algodão. Gola de abas e manga comprida acabada em punho com prega. Pormenor de pinça atrás. Bainha com aberturas laterais. Fecho frontal com botões.",
+    "price": 38.0,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 63,
+    "stock": 13,
+    "gender": "mulher",
+    "image": "/assets/images/products/CamisaM-1-1.jpg",
+    "images": [
+      "/assets/images/products/CamisaM-1-1.jpg",
+      "/assets/images/products/CamisaM-1-2.jpg",
+      "/assets/images/products/CamisaM-1-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Camisa de Popelina Oversize 50th Anniversary",
+    "description": "Camisa oversize confecionada com fiação 100% algodão. Gola de abas. Manga comprida acabada em punho com prega. Pormenor de pinças atrás. Fecho frontal com botões.",
+    "price": 35.2,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 92,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/CamisaM-2-1.jpg",
+    "images": [
+      "/assets/images/products/CamisaM-2-1.jpg",
+      "/assets/images/products/CamisaM-2-2.jpg",
+      "/assets/images/products/CamisaM-2-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Camisa Fluida com Cupro 50th Anniversary",
+    "description": "Camisa fluida confecionada em fiação com cupro. Gola de lapela e manga comprida acabada em punho. Fecho frontal com botões.",
+    "price": 52.15,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 60,
+    "stock": 8,
+    "gender": "mulher",
+    "image": "/assets/images/products/CamisaM-3-1.jpg",
+    "images": [
+      "/assets/images/products/CamisaM-3-1.jpg",
+      "/assets/images/products/CamisaM-3-2.jpg",
+      "/assets/images/products/CamisaM-3-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Camisa Popelina Manga Morcego 50th Anniversary",
+    "description": "Camisa confecionada com fiação 100% algodão. Gola de abas. Manga comprida manga morcego acabada em punho com ombro descaído. Bolso de chapa à frente. Pormenor de pinças atrás. Fecho frontal com botões.",
+    "price": 35.25,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 82,
+    "stock": 7,
+    "gender": "mulher",
+    "image": "/assets/images/products/CamisaM-4-1.jpg",
+    "images": [
+      "/assets/images/products/CamisaM-4-1.jpg",
+      "/assets/images/products/CamisaM-4-2.jpg",
+      "/assets/images/products/CamisaM-4-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Camisa Combinada Popelina 50th Anniversary",
+    "description": "Camisa confecionada em fiação de algodão. Gola de abas e manga comprida com botões acabada em punho. Pormenor de tecidos combinados a contrastar. Bainha com aberturas laterais. Fecho à frente com botões.",
+    "price": 45.5,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 3,
+    "popularity": 22,
+    "stock": 13,
+    "gender": "mulher",
+    "image": "/assets/images/products/CamisaM-5-1.jpg",
+    "images": [
+      "/assets/images/products/CamisaM-5-1.jpg",
+      "/assets/images/products/CamisaM-5-2.jpg",
+      "/assets/images/products/CamisaM-5-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Camisa Botões Combinados 100% Linho",
+    "description": "Camisa confecionada em linho. Colarinho de abas e manga comprida. Bainha com aberturas laterais. Fecho frontal com botões combinados.",
+    "price": 23.0,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 5,
+    "popularity": 55,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/CamisaM-6-1.jpg",
+    "images": [
+      "/assets/images/products/CamisaM-6-1.jpg",
+      "/assets/images/products/CamisaM-6-2.jpg",
+      "/assets/images/products/CamisaM-6-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Blusa Bordados Manga Larga",
+    "description": "Blusa de decote redondo com decote em bico e manga larga abaixo do cotovelo. Detalhe de acabamentos com bordados. Fecho frontal com botões.",
+    "price": 30.55,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 5,
+    "popularity": 55,
+    "stock": 12,
+    "gender": "mulher",
+    "image": "/assets/images/products/CamisaM-7-1.jpg",
+    "images": [
+      "/assets/images/products/CamisaM-7-1.jpg",
+      "/assets/images/products/CamisaM-7-2.jpg",
+      "/assets/images/products/CamisaM-7-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Blusa Curta com Bordados Perfurados",
+    "description": "Blusa de decote redondo com decote em bico e manga comprida acabada com folho. Detalhe de bordados perfurados à frente combinados no tom. Fecho frontal com botões no tom.",
+    "price": 20.15,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 70,
+    "stock": 6,
+    "gender": "mulher",
+    "image": "/assets/images/products/CamisaM-8-1.jpg",
+    "images": [
+      "/assets/images/products/CamisaM-8-1.jpg",
+      "/assets/images/products/CamisaM-8-2.jpg",
+      "/assets/images/products/CamisaM-8-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Blusa Algodão Bordados",
+    "description": "Blusa de decote redondo com decote em bico e manga comprida acabada em elástico. Detalhe de bordados frontais no tom. Fecho frontal com botões.",
+    "price": 25.0,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 92,
+    "stock": 14,
+    "gender": "mulher",
+    "image": "/assets/images/products/CamisaM-9-1.jpg",
+    "images": [
+      "/assets/images/products/CamisaM-9-1.jpg",
+      "/assets/images/products/CamisaM-9-2.jpg",
+      "/assets/images/products/CamisaM-9-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Camisa Entremeio",
+    "description": "Camisa de decote em bico e manga larga abaixo do cotovelo. Detalhe de entremeios no mesmo tom. Fecho frontal com botões.",
+    "price": 25.9,
+    "category": "camisas",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 85,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/CamisaM-10-1.jpg",
+    "images": [
+      "/assets/images/products/CamisaM-10-1.jpg",
+      "/assets/images/products/CamisaM-10-2.jpg",
+      "/assets/images/products/CamisaM-10-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "White",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "White",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "White",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Trench Algodão 50th Anniversary",
+    "description": "Trench confecionado com fiação de algodão. Gola de abas com e manga comprida acabada em punho. Pormenor de aba com presilha e botão na gola. Bolsos laterais. Cinto de laçada no mesmo tecido. Bainha com abertura atrás. Fecho frontal com botões.",
+    "price": 129.9,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 92,
+    "stock": 13,
+    "gender": "mulher",
+    "image": "/assets/images/products/CasacoM-1-1.jpg",
+    "images": [
+      "/assets/images/products/CasacoM-1-1.jpg",
+      "/assets/images/products/CasacoM-1-2.jpg",
+      "/assets/images/products/CasacoM-1-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Trench Oversize 50th Anniversary",
+    "description": "Trench oversize de gola de abas e manga comprida com presilha e botão. Bolsos à frente. Cinto no mesmo tecido ajustável com laçadas. Bainha com acabamento com abertura atrás. Fecho frontal com botões ocultos por aba.",
+    "price": 139.9,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 64,
+    "stock": 9,
+    "gender": "mulher",
+    "image": "/assets/images/products/CasacoM-2-1.jpg",
+    "images": [
+      "/assets/images/products/CasacoM-2-1.jpg",
+      "/assets/images/products/CasacoM-2-2.jpg",
+      "/assets/images/products/CasacoM-2-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Quimono Cruzado",
+    "description": "Quimono com decote em bico cruzado e manga comprida ampla. Aperta com laçada interior e lateral.",
+    "price": 29.95,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 75,
+    "stock": 14,
+    "gender": "mulher",
+    "image": "/assets/images/products/CasacoM-3-1.jpg",
+    "images": [
+      "/assets/images/products/CasacoM-3-1.jpg",
+      "/assets/images/products/CasacoM-3-2.jpg",
+      "/assets/images/products/CasacoM-3-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Brown",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Brown",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Brown",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Brown",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Casaco Quimono com Cinto",
+    "description": "Casaco quimono com gola de lapela e decote em bico cruzado. Manga comprida. Cinto laço no mesmo tecido.",
+    "price": 29.95,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 69,
+    "stock": 13,
+    "gender": "mulher",
+    "image": "/assets/images/products/CasacoM-4-1.jpg",
+    "images": [
+      "/assets/images/products/CasacoM-4-1.jpg",
+      "/assets/images/products/CasacoM-4-2.jpg",
+      "/assets/images/products/CasacoM-4-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Pink",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Pink",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Pink",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Pink",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Casaco Quimono com Laço Lateral",
+    "description": "Casaco tipo quimono. Decote em bico cruzado e manga comprida. Fecho cruzado com laçada na lateral.",
+    "price": 29.95,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 3,
+    "popularity": 23,
+    "stock": 4,
+    "gender": "mulher",
+    "image": "/assets/images/products/CasacoM-5-1.jpg",
+    "images": [
+      "/assets/images/products/CasacoM-5-1.jpg",
+      "/assets/images/products/CasacoM-5-2.jpg",
+      "/assets/images/products/CasacoM-5-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Gray",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "Gray",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "Gray",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "Gray",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Casaco Quimono com Textura",
+    "description": "Casaco tipo quimono. Decote em bico cruzado e manga comprida. Fecho cruzado com laço na lateral.",
+    "price": 29.95,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 2,
+    "popularity": 20,
+    "stock": 6,
+    "gender": "mulher",
+    "image": "/assets/images/products/CasacoM-6-1.jpg",
+    "images": [
+      "/assets/images/products/CasacoM-6-1.jpg",
+      "/assets/images/products/CasacoM-6-2.jpg",
+      "/assets/images/products/CasacoM-6-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Bege",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "Bege",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "Bege",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Bege",
+        "size": "XL",
+        "stock": 1
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Blazer Quimono Cruzado",
+    "description": "Blazer tipo quimono de decote em bico cruzado. Manga comprida com ombro descaído. Forro interior. Fecho cruzado com laço no mesmo tecido.",
+    "price": 39.95,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 82,
+    "stock": 9,
+    "gender": "mulher",
+    "image": "/assets/images/products/CasacoM-7-1.jpg",
+    "images": [
+      "/assets/images/products/CasacoM-7-1.jpg",
+      "/assets/images/products/CasacoM-7-2.jpg",
+      "/assets/images/products/CasacoM-7-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Blazer Quimono Bordado",
+    "description": "Blazer estilo quimono longo e aberto com manga longa. Detalhe de bordados combinados em contraste. Bolsos laterais ocultos na costura. Barra com aberturas laterais.",
+    "price": 59.95,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 95,
+    "stock": 13,
+    "gender": "mulher",
+    "image": "/assets/images/products/CasacoM-8-1.jpg",
+    "images": [
+      "/assets/images/products/CasacoM-8-1.jpg",
+      "/assets/images/products/CasacoM-8-2.jpg",
+      "/assets/images/products/CasacoM-8-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Bege",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "Bege",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Bege",
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "color": "Bege",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Casaco Curto com Presilhas",
+    "description": "Casaco curto com gola de pontas. Manga comprida ajustável com presilha. Bolsos de chapa com lapela à frente. Bainha ajustável com cordões interiores. Fecho frontal com botões metálicos.",
+    "price": 29.95,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 4,
+    "popularity": 34,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/CasacoM-10-1.jpg",
+    "images": [
+      "/assets/images/products/CasacoM-10-1.jpg",
+      "/assets/images/products/CasacoM-10-2.jpg",
+      "/assets/images/products/CasacoM-10-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Brown",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Brown",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Brown",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Brown",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Casaco Algodão - Linho Bolsos",
+    "description": "Casaco regular fit confecionado em tecido com algodão e linho. Gola subida e manga comprida com punho com botões de pressão. Bolsos frontais de chapa com aba. Fecho frontal de abotoadura oculta por aba.",
+    "price": 25.99,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 4.3,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CasacoH1 - 1.jpg",
+    "images": [
+      "/assets/images/products/CasacoH1 - 1.jpg",
+      "/assets/images/products/CasacoH1 - 2.jpg",
+      "/assets/images/products/CasacoH1 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Blusão Técnico Color Block",
+    "description": "Blusão relax fit confecionado em tecido técnico leve. Forro interior em tecido com estrutura de rede. Gola subida e manga comprida. Bolsos frontais ocultos na costura. Detalhe de bolso interior. Acabamentos com elástico. Bainha ajustável com elástico oculto nas laterais. Fecho frontal com fecho de correr.",
+    "price": 25.99,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 4.1,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CasacoH2 - 1.jpg",
+    "images": [
+      "/assets/images/products/CasacoH2 - 1.jpg",
+      "/assets/images/products/CasacoH2 - 2.jpg",
+      "/assets/images/products/CasacoH2 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Grey",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Grey",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Grey",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Grey",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Casaco Técnico Contraste",
+    "description": "Casaco relaxed fit confecionado em tecido técnico. Gola subida e manga comprida. Bolsos com fecho de correr na cintura. Acabamentos com elástico. Fecho frontal com fecho de correr.",
+    "price": 25.99,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 4.0,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CasacoH3 - 1.jpg",
+    "images": [
+      "/assets/images/products/CasacoH3 - 1.jpg",
+      "/assets/images/products/CasacoH3 - 2.jpg",
+      "/assets/images/products/CasacoH3 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Blusão Técnico Acolchoado",
+    "description": "Blusão relaxed fit confecionado em tecido técnico. Gola de abas e manga comprida acabada em punho com elástico. Bolsos de linha viva na anca. Bainha ajustável com elásticos frontais. Fecho frontal com botões de pressão.",
+    "price": 20.99,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 4.5,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CasacoH4 - 1.jpg",
+    "images": [
+      "/assets/images/products/CasacoH4 - 1.jpg",
+      "/assets/images/products/CasacoH4 - 2.jpg",
+      "/assets/images/products/CasacoH4 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Blusão Técnico Acolchoado",
+    "description": "Blusão relaxed fit confecionado em tecido técnico. Gola de abas e manga comprida acabada em punho com elástico. Bolsos de linha viva na anca. Bainha ajustável com elásticos frontais. Fecho frontal com botões de pressão.",
+    "price": 20.99,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 4.5,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CasacoH5 - 1.jpg",
+    "images": [
+      "/assets/images/products/CasacoH5 - 1.jpg",
+      "/assets/images/products/CasacoH5 - 2.jpg",
+      "/assets/images/products/CasacoH5 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Grey",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Grey",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Grey",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Grey",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Blusão Técnico",
+    "description": "Blusão relax fit confecionado em tecido técnico ligeiramente acolchoado no seu interior. Gola de abas e manga comprida acabada em punho com elástico. Bolsos de chapa na anca. Fecho frontal com fecho de correr.",
+    "price": 20.99,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 4.3,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CasacoH6 - 1.jpg",
+    "images": [
+      "/assets/images/products/CasacoH6 - 1.jpg",
+      "/assets/images/products/CasacoH6 - 2.jpg",
+      "/assets/images/products/CasacoH6 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Grey",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Grey",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Grey",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Grey",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Blusão Técnico",
+    "description": "Blusão relax fit confecionado em tecido técnico ligeiramente acolchoado no seu interior. Gola de abas e manga comprida acabada em punho com elástico. Bolsos de chapa na anca. Fecho frontal com fecho de correr.",
+    "price": 20.99,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 4.3,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CasacoH7 - 1.jpg",
+    "images": [
+      "/assets/images/products/CasacoH7 - 1.jpg",
+      "/assets/images/products/CasacoH7 - 2.jpg",
+      "/assets/images/products/CasacoH7 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Blusão Técnico",
+    "description": "Blusão relax fit confecionado em tecido técnico ligeiramente acolchoado no seu interior. Gola de abas e manga comprida acabada em punho com elástico. Bolsos de chapa na anca. Fecho frontal com fecho de correr.",
+    "price": 20.99,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 4.1,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CasacoH8 - 1.jpg",
+    "images": [
+      "/assets/images/products/CasacoH8 - 1.jpg",
+      "/assets/images/products/CasacoH8 - 2.jpg",
+      "/assets/images/products/CasacoH8 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Green",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Green",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Green",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Green",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Blusão Com Print Floral",
+    "description": "Blusão relaxed fit confecionado em tecido com estrutura. Gola de pontas e manga comprida acabada em punho com elástico. Bolsos de linhas vivas na anca. Bainha acabada com elástico. Fecho de correr frontal.",
+    "price": 28.99,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 4.0,
+    "popularity": 80,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CasacoH9 - 1.jpg",
+    "images": [
+      "/assets/images/products/CasacoH9 - 1.jpg",
+      "/assets/images/products/CasacoH9 - 2.jpg",
+      "/assets/images/products/CasacoH9 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Bege",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Bege",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Bege",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Bege",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Blusão Com Estrutura Em Espiga",
+    "description": "Blusão regular fit confecionado em tecido de algodão ligeiramente acolchoado no seu interior. Gola de abas e manga comprida acabada em punho com botão. Bolsos com fecho de correr na anca. Fecho frontal com fecho de correr.",
+    "price": 26.99,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 4.5,
+    "popularity": 80,
+    "stock": 20,
+    "gender": "homem",
+    "image": "/assets/images/products/CasacoH10 - 1.jpg",
+    "images": [
+      "/assets/images/products/CasacoH10 - 1.jpg",
+      "/assets/images/products/CasacoH10 - 2.jpg",
+      "/assets/images/products/CasacoH10 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Jeans Baggy Flare Fit",
+    "description": "Jeans baggy flare fit. Cinco bolsos. Efeito lavado. Fecho frontal com botões.",
+    "price": 22.99,
+    "category": "Jeans",
+    "subcategory": "",
+    "rating": 4.5,
+    "popularity": 80,
+    "stock": 20,
+    "gender": "homem",
+    "image": "assets/images/products/JeansH1 - 1.jpg",
+    "images": [
+      "/assets/images/products/JeansH1 - 1.jpg",
+      "/assets/images/products/JeansH1 - 2.jpg",
+      "/assets/images/products/JeansH1 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Jeans Baggy Flare Fit",
+    "description": "Jeans baggy flare fit. Cinco bolsos. Efeito lavado. Fecho frontal com botões.",
+    "price": 22.99,
+    "category": "Jeans",
+    "subcategory": "",
+    "rating": 4.2,
+    "popularity": 80,
+    "stock": 20,
+    "gender": "homem",
+    "image": "assets/images/products/JeansH2 - 1.jpg",
+    "images": [
+      "/assets/images/products/JeansH2 - 1.jpg",
+      "/assets/images/products/JeansH2 - 2.jpg",
+      "/assets/images/products/JeansH2 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Jeans Baggy Flare Fit",
+    "description": "Jeans baggy flare fit. Cinco bolsos. Efeito lavado. Fecho frontal com botões.",
+    "price": 22.99,
+    "category": "Jeans",
+    "subcategory": "",
+    "rating": 4.2,
+    "popularity": 80,
+    "stock": 20,
+    "gender": "homem",
+    "image": "assets/images/products/JeansH3 - 1.jpg",
+    "images": [
+      "/assets/images/products/JeansH3 - 1.jpg",
+      "/assets/images/products/JeansH3 - 2.jpg",
+      "/assets/images/products/JeansH3 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Jeans Baggy Flare Fit",
+    "description": "Jeans baggy flare fit. Cinco bolsos. Efeito lavado. Fecho frontal com botões.",
+    "price": 22.99,
+    "category": "Jeans",
+    "subcategory": "",
+    "rating": 4.5,
+    "popularity": 80,
+    "gender": "homem",
+    "stock": 20,
+    "image": "assets/images/products/JeansH4 - 1.jpg",
+    "images": [
+      "/assets/images/products/JeansH4 - 1.jpg",
+      "/assets/images/products/JeansH4 - 2.jpg",
+      "/assets/images/products/JeansH4 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Jeans Skinny Fit Com Rasgões",
+    "description": "Jeans skinny fit. Cinco bolsos. Lavagem com efeito de rasgões. Fecho frontal com fecho de correr e botão.",
+    "price": 20.99,
+    "category": "Jeans",
+    "subcategory": "",
+    "rating": 4.3,
+    "popularity": 90,
+    "stock": 20,
+    "gender": "homem",
+    "image": "assets/images/products/JeansH5 - 1.jpg",
+    "images": [
+      "/assets/images/products/JeansH5 - 1.jpg",
+      "/assets/images/products/JeansH5 - 2.jpg",
+      "/assets/images/products/JeansH5 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Jeans Skinny Fit Com Rasgões",
+    "description": "Jeans skinny fit. Cinco bolsos. Lavagem com efeito de rasgões. Fecho frontal com fecho de correr e botão.",
+    "price": 20.99,
+    "category": "Jeans",
+    "subcategory": "",
+    "rating": 4.3,
+    "popularity": 90,
+    "stock": 20,
+    "gender": "homem",
+    "image": "assets/images/products/JeansH6 - 1.jpg",
+    "images": [
+      "/assets/images/products/JeansH6 - 1.jpg",
+      "/assets/images/products/JeansH6 - 2.jpg",
+      "/assets/images/products/JeansH6 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Jeans Skinny Fit Com Rasgões",
+    "description": "Jeans skinny fit. Cinco bolsos. Lavagem com efeito de rasgões. Fecho frontal com fecho de correr e botão.",
+    "price": 20.99,
+    "category": "Jeans",
+    "subcategory": "",
+    "rating": 4.3,
+    "popularity": 90,
+    "stock": 20,
+    "gender": "homem",
+    "image": "assets/images/products/JeansH7 - 1.jpg",
+    "images": [
+      "/assets/images/products/JeansH7 - 1.jpg",
+      "/assets/images/products/JeansH7 - 2.jpg",
+      "/assets/images/products/JeansH7 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Jeans Skinny Fit Com Rasgões E Salpicos",
+    "description": "Jeans skinny fit. Cinco bolsos. Bleach efeito rasgões com remendos interiores e estampado tipo salpicos nas perneiras. Fecho frontal com botões.",
+    "price": 23.99,
+    "category": "Jeans",
+    "subcategory": "",
+    "rating": 4.7,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "assets/images/products/JeansH8 - 1.jpg",
+    "images": [
+      "/assets/images/products/JeansH8 - 1.jpg",
+      "/assets/images/products/JeansH8 - 2.jpg",
+      "/assets/images/products/JeansH8 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Jeans Skinny Fit Com Rasgões E Salpicos",
+    "description": "Jeans skinny fit. Cinco bolsos. Bleach efeito rasgões com remendos interiores e estampado tipo salpicos nas perneiras. Fecho frontal com botões.",
+    "price": 23.99,
+    "category": "Jeans",
+    "subcategory": "",
+    "rating": 4.7,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "assets/images/products/JeansH9 - 1.jpg",
+    "images": [
+      "/assets/images/products/JeansH9 - 1.jpg",
+      "/assets/images/products/JeansH9 - 2.jpg",
+      "/assets/images/products/JeansH9 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Black",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Jeans Skinny Fit Com Rasgões E Salpicos",
+    "description": "Jeans skinny fit. Cinco bolsos. Bleach efeito rasgões com remendos interiores e estampado tipo salpicos nas perneiras. Fecho frontal com botões.",
+    "price": 23.99,
+    "category": "Jeans",
+    "subcategory": "",
+    "rating": 4.7,
+    "popularity": 100,
+    "stock": 20,
+    "gender": "homem",
+    "image": "assets/images/products/JeansH10 - 1.jpg",
+    "images": [
+      "/assets/images/products/JeansH10 - 1.jpg",
+      "/assets/images/products/JeansH10 - 2.jpg",
+      "/assets/images/products/JeansH10 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Sparkle Press on Lips",
+    "description": "Batom líquido com acabamento mate que revela um efeito brilhante ao pressionar os lábios. Disponível em dois novos tons, a sua fórmula de secagem rápida fixa a cor e ativa os brilhos ao contacto.",
+    "price": 12.5,
+    "category": "makeup",
+    "subcategory": "",
+    "rating": 4,
+    "popularity": 55,
+    "stock": 14,
+    "gender": "beauty",
+    "image": "assets/images/products/maquilhagem-1-1.jpg",
+    "images": [
+      "/assets/images/products/maquilhagem-1-1.jpg",
+      "/assets/images/products/maquilhagem-1-2.jpg",
+      "/assets/images/products/maquilhagem-1-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Red",
+        "stock": 14
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Frosted Lip Gloss",
+    "description": "Gloss labial com acabamento cristalino e brilho holográfico púrpura. Formulado com pérolas ultrafinas que captam a luz, proporciona um efeito de volume ótico e uma luminosidade notável.",
+    "price": 6.5,
+    "category": "makeup",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 67,
+    "stock": 10,
+    "gender": "beauty",
+    "image": "assets/images/products/maquilhagem-2-1.jpg",
+    "images": [
+      "/assets/images/products/maquilhagem-2-1.jpg",
+      "/assets/images/products/maquilhagem-2-2.jpg",
+      "/assets/images/products/maquilhagem-2-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Pink",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Dreamland Dip in Eyeliner",
+    "description": "Este eyeliner iridescente vai surpreender-te. Com pérolas ultrafinas e cromáticas, cria um efeito dinâmico e multidimensional na pele, adicionando profundidade e intensidade ao teu olhar. O seu aplicador ultrapreciso permite-te alcançar o resultado ideal com facilidade, proporcionando um olhar intenso e duradouro.",
+    "price": 10.95,
+    "category": "makeup",
+    "subcategory": "",
+    "rating": 4,
+    "popularity": 35,
+    "stock": 11,
+    "gender": "beauty",
+    "image": "assets/images/products/maquilhagem-3-1.jpg",
+    "images": [
+      "/assets/images/products/maquilhagem-3-1.jpg",
+      "/assets/images/products/maquilhagem-3-2.jpg",
+      "/assets/images/products/maquilhagem-3-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "stock": 11
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Zara Dip in Eyeliner",
+    "description": "Carregado com pérolas cromáticas ultrafinas, cria um efeito dinâmico e multidimensional na pele, adicionando profundidade e intensidade ao seu olhar.",
+    "price": 10.95,
+    "category": "makeup",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 83,
+    "stock": 5,
+    "gender": "beauty",
+    "image": "assets/images/products/maquilhagem-5-1.jpg",
+    "images": [
+      "/assets/images/products/maquilhagem-5-1.jpg",
+      "/assets/images/products/maquilhagem-5-2.jpg",
+      "/assets/images/products/maquilhagem-5-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Golden",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Fashionably London Edp 100 Ml (3.4 Fl.Oz)",
+    "description": "Eau de Parfum. Uma fragrância floral e almiscarada que combina a frescura cítrica da bergamota, um coração romântico de rosa e um fundo suave e envolvente de almíscar. Perfeita para quem procura elegância e modernidade.",
+    "price": 15.95,
+    "category": "perfumes",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 64,
+    "stock": 5,
+    "gender": "beauty",
+    "image": "/assets/images/products/Perfume1 - 1.jpg",
+    "images": [
+      "/assets/images/products/Perfume1 - 1.jpg",
+      "/assets/images/products/Perfume1 - 2.jpg",
+      "/assets/images/products/Perfume1 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Grey",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Fashionably London Edp 10 Ml (0.34 Fl. Oz)",
+    "description": "Eau de Parfum. Uma fragrância floral e almiscarada que combina a frescura cítrica da bergamota, um coração romântico de rosa e um fundo suave e envolvente de almíscar. Perfeita para quem procura elegância e modernidade.",
+    "price": 12.95,
+    "category": "perfumes",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 84,
+    "stock": 5,
+    "gender": "beauty",
+    "image": "/assets/images/products/Perfume2 - 1.jpg",
+    "images": [
+      "/assets/images/products/Perfume2 - 1.jpg",
+      "/assets/images/products/Perfume2 - 2.jpg",
+      "/assets/images/products/Perfume2 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Grey",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Fashionably London Edp 30ml (1.01 Fl. Oz)",
+    "description": "Eau de Parfum. Uma fragrância floral e almiscarada que combina a frescura cítrica da bergamota, um coração romântico de rosa e um fundo suave e envolvente de almíscar. Perfeita para quem procura elegância e modernidade.",
+    "price": 13.95,
+    "category": "perfumes",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 94,
+    "stock": 5,
+    "gender": "beauty",
+    "image": "/assets/images/products/Perfume3 - 1.jpg",
+    "images": [
+      "/assets/images/products/Perfume3 - 1.jpg",
+      "/assets/images/products/Perfume3 - 2.jpg",
+      "/assets/images/products/Perfume3 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Grey",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Vibrant Caramel Candy Edp 90ml (3.04 Fl. Oz)",
+    "description": "Eau de Parfum. Uma versão mais gourmand do icónico Vibrant Caramel da coleção Básicos. Um aroma sensual e viciante que a envolve em doçura e encanto. O caramelo vibrante entrelaça-se com praliné e algodão doce, acompanhado pela frescura suculenta do morango Mara des Bois. Uma delícia tentadora, impossível de resistir.",
+    "price": 18.95,
+    "category": "perfumes",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 80,
+    "stock": 5,
+    "gender": "beauty",
+    "image": "/assets/images/products/Perfume4 - 1.jpg",
+    "images": [
+      "/assets/images/products/Perfume4 - 1.jpg",
+      "/assets/images/products/Perfume4 - 2.jpg",
+      "/assets/images/products/Perfume4 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Golden",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Red Zara Temptation Edp 80ml (2.71 Fl. Oz)",
+    "description": "Eau de Parfum. O nosso grande bestseller, uma criação luminosa e viciante. O calor do açafrão e da flor de laranjeira envolve um bouquet floral onde o jasmim revela a sua sensualidade. Um toque de praliné confere doçura, enquanto o âmbar e o almíscar criam uma aura sofisticada e memorável.",
+    "price": 19.95,
+    "category": "perfumes",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 80,
+    "stock": 5,
+    "gender": "beauty",
+    "image": "/assets/images/products/Perfume5 - 1.jpg",
+    "images": [
+      "/assets/images/products/Perfume5 - 1.jpg",
+      "/assets/images/products/Perfume5 - 2.jpg",
+      "/assets/images/products/Perfume5 - 3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Red",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "name": "A Day Body Oil 100ml (3.4 Fl. Oz)",
+    "description": "Óleo corporal que envolve a pele numa fragrância luminosa com citrinos vibrantes, flor de laranjeira mediterrânica e um fundo sensual de âmbar negro e almíscares reconfortantes.",
+    "price": 12.95,
+    "category": "skincare",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 80,
+    "stock": 5,
+    "gender": "beauty",
+    "image": "/assets/images/products/Skincare1 - 1.jpg",
+    "images": [
+      "/assets/images/products/Skincare1 - 1.jpg",
+      "/assets/images/products/Skincare1 - 2.jpg",
+      "/assets/images/products/Skincare1 - 3.jpg"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "A Night Body Wash 400ml (13.6 Fl. Oz)",
+    "description": "Gel de duche. Limpa e envolve a pele com notas especiadas de pimenta preta e cravo-da-índia. Um fundo de âmbar e madeiras fumadas confere uma sensação intensa e sensual, ideal para um banho reconfortante.",
+    "price": 12.95,
+    "category": "skincare",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 80,
+    "stock": 5,
+    "gender": "beauty",
+    "image": "/assets/images/products/Skincare2 - 1.jpg",
+    "images": [
+      "/assets/images/products/Skincare2 - 1.jpg",
+      "/assets/images/products/Skincare2 - 2.jpg",
+      "/assets/images/products/Skincare2 - 3.jpg"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Majolica Body Wash 400 Ml (13.6 Fl. Oz)",
+    "description": "Gel de duche. Refrescante, suave e inspirado na beleza artesanal da majólica, combina notas revitalizantes de gengibre, flor de laranjeira e amêndoa. Um coração floral mistura-se com um fundo de baunilha e sândalo, deixando uma suavidade duradoura na pele.",
+    "price": 12.95,
+    "category": "skincare",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 80,
+    "stock": 5,
+    "gender": "beauty",
+    "image": "/assets/images/products/Skincare3 - 1.jpg",
+    "images": [
+      "/assets/images/products/Skincare3 - 1.jpg",
+      "/assets/images/products/Skincare3 - 2.jpg",
+      "/assets/images/products/Skincare3 - 3.jpg"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Marble Body Wash 400ml (13.6 Fl. Oz)",
+    "description": "Gel de duche. Refresca a pele com notas de tangerina, tomilho e noz-moscada. Um fundo de almíscar e musgo deixa um rasto floral e amadeirado, ideal para um banho refinado. ",
+    "price": 12.95,
+    "category": "skincare",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 80,
+    "stock": 5,
+    "gender": "beauty",
+    "image": "/assets/images/products/Skincare4 - 1.jpg",
+    "images": [
+      "/assets/images/products/Skincare4 - 1.jpg",
+      "/assets/images/products/Skincare4 - 2.jpg",
+      "/assets/images/products/Skincare4 - 3.jpg"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "A Night Body Oil 100ml (3.4 Fl. Oz)",
+    "description": "Óleo corporal que combina o calor da pimenta preta, as madeiras fumadas e o âmbar, deixando a pele hidratada e perfumada com uma sensação de profundidade e elegância.",
+    "price": 12.95,
+    "category": "skincare",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 80,
+    "stock": 5,
+    "gender": "beauty",
+    "image": "/assets/images/products/Skincare5 - 1.jpg",
+    "images": [
+      "/assets/images/products/Skincare5 - 1.jpg",
+      "/assets/images/products/Skincare5 - 2.jpg",
+      "/assets/images/products/Skincare5 - 3.jpg"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Dreamland Shadow Stick",
+    "description": "Prepara-te para uma sombra de olhos holográfica em stick, concebida para realçar o teu olhar com uma cor e um brilho fascinantes. A sua fórmula rica e cremosa desliza facilmente, criando um acabamento suave e impactante com uma impressionante mistura de pérolas rosas e holográficas que captam a luz de todos os ângulos.",
+    "price": 10.95,
+    "category": "makeup",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 62,
+    "stock": 13,
+    "gender": "beauty",
+    "image": "assets/images/products/maquilhagem-4-1.jpg",
+    "images": [
+      "/assets/images/products/maquilhagem-4-1.jpg",
+      "/assets/images/products/maquilhagem-4-2.jpg",
+      "/assets/images/products/maquilhagem-4-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Pink",
+        "stock": 13
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Blusão com Fecho de Correr e Rami",
+    "description": "Blusão confecionado com rami. Gola de lapela e manga larga abaixo do cotovelo. Bolsos frontais de chapa com aba. Bainha com acabamento elástico. Fecho frontal com fecho de correr.",
+    "price": 35.95,
+    "category": "casacos",
+    "subcategory": "",
+    "rating": 6,
+    "popularity": 52,
+    "stock": 10,
+    "gender": "mulher",
+    "image": "/assets/images/products/CasacoM-9-1.jpg",
+    "images": [
+      "/assets/images/products/CasacoM-9-1.jpg",
+      "/assets/images/products/CasacoM-9-2.jpg",
+      "/assets/images/products/CasacoM-9-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Brown",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Brown",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Brown",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Brown",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Vestido Midi Acetinado Aplique Dourado",
+    "description": "Vestido de decote redondo com aplique dourado e manga cava. Pregas laterais na cintura. Detalhe de tecido acetinado com efeito enrugado. Bainha com abertura nas costas. Fecho lateral com fecho éclair oculto na costura e botão traseiro.",
+    "price": 30.99,
+    "category": "vestidos",
+    "subcategory": "",
+    "rating": 7,
+    "popularity": 66,
+    "stock": 13,
+    "gender": "mulher",
+    "image": "/assets/images/products/vestido-19-1.jpg",
+    "images": [
+      "/assets/images/products/vestido-19-1.jpg",
+      "/assets/images/products/vestido-19-2.jpg",
+      "/assets/images/products/vestido-19-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Jeans Z1975 Wide Leg Cintura Média Costuras Laterais",
+    "description": "Jeans de cintura média com cinco bolsos. Detalhe de costuras marcadas laterais. Perna larga e parte inferior com acabamento sem costura. Fecho frontal com fecho de correr e botão.",
+    "price": 35.95,
+    "category": "jeans",
+    "subcategory": "",
+    "rating": 9,
+    "popularity": 90,
+    "stock": 14,
+    "gender": "mulher",
+    "image": "/assets/images/products/jeansM-4-1.jpg",
+    "images": [
+      "/assets/images/products/jeansM-4-1.jpg",
+      "/assets/images/products/jeansM-4-2.jpg",
+      "/assets/images/products/jeansM-4-2.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "size": "S",
+        "stock": 4
+      },
+      {
+        "color": "Blue",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "Blue",
+        "size": "L",
+        "stock": 5
+      },
+      {
+        "color": "Blue",
+        "size": "XL",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "name": "T-shirt Decote Quadrado",
+    "description": "T-shirt confecionada em tecido com mistura de algodão. Decote quadrado e manga curta.",
+    "price": 12.3,
+    "category": "tshirt",
+    "subcategory": "",
+    "rating": 8,
+    "popularity": 87,
+    "stock": 8,
+    "gender": "mulher",
+    "image": "/assets/images/products/tshirtM-12-1.jpg",
+    "images": [
+      "/assets/images/products/tshirtM-12-1.jpg",
+      "/assets/images/products/tshirtM-12-2.jpg",
+      "/assets/images/products/tshirtM-12-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "Pink",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "Pink",
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "color": "Pink",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "Pink",
+        "size": "XL",
+        "stock": 2
+      }
+    ]
+  }
+]
