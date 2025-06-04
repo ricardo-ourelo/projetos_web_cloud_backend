@@ -277,6 +277,7 @@ def save_cart():
     except jwt.InvalidTokenError:
         return jsonify({'message': 'Invalid token'}), 401
 
+
 @app.route('/products/cart', methods=['GET'])
 @token_required
 def get_cart():
@@ -287,14 +288,25 @@ def get_cart():
         username = payload['username']
 
         cart = cart_col.find_one({'username': username})
-        if not cart:
+        if not cart or 'products' not in cart:
             return jsonify({'message': 'Carrinho vazio', 'products': []}), 200
 
-        return jsonify({'products': cart.get('products', [])}), 200
+        products_with_details = []
+        for item in cart['products']:
+            product_id = item.get('product_id')
+            product = products_col.find_one({'_id': ObjectId(product_id)})
+            if product:
+                product['_id'] = str(product['_id'])  # Converte para string
+                products_with_details.append({
+                    **product,
+                    'quantity': item.get('quantity', 1),
+                    'selectedSize': item.get('selectedSize', None)
+                })
+
+        return jsonify({'products': products_with_details}), 200
 
     except jwt.InvalidTokenError:
         return jsonify({'message': 'Invalid token'}), 401
-
 
 # Admin required 
 # Admin required 
