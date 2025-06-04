@@ -261,17 +261,40 @@ def save_cart():
             return jsonify({'message': 'Missing cart data'}), 400
 
         cart_data = {
-            'username': username,
-            'products': data['products'],  
-            'created_at': datetime.utcnow()
+            'products': data['products'],
+            'updated_at': datetime.utcnow()
         }
 
-        result = cart_col.insert_one(cart_data)
+        # Atualiza se já existir, ou cria um novo
+        result = cart_col.update_one(
+            {'username': username},
+            {'$set': cart_data, '$setOnInsert': {'created_at': datetime.utcnow()}},
+            upsert=True
+        )
 
-        return jsonify({'message': 'Cart saved successfully', 'cart_id': str(result.inserted_id)}), 201
+        return jsonify({'message': 'Cart saved successfully'}), 200
 
     except jwt.InvalidTokenError:
         return jsonify({'message': 'Invalid token'}), 401
+
+@app.route('/products/cart', methods=['GET'])
+@token_required
+def get_cart():
+    token = request.args.get('token')
+
+    try:
+        payload = jwt.decode(token, app.config["SECRET_KEY"], algorithms=["HS256"])
+        username = payload['username']
+
+        cart = cart_col.find_one({'username': username})
+        if not cart:
+            return jsonify({'message': 'Carrinho vazio', 'products': []}), 200
+
+        return jsonify({'products': cart.get('products', [])}), 200
+
+    except jwt.InvalidTokenError:
+        return jsonify({'message': 'Invalid token'}), 401
+
 
 # Admin required 
 # Admin required 
